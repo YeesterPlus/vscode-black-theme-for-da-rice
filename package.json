@@ -1,11 +1,21 @@
 {
   "name": "black",
   "displayName": "Black",
-  "description": "",
+  "description": "Variation of https://github.com/vsalvino/dark-plus-black with brighter text colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "publisher": "kamil-now",
+  "author": {
+    "name": "Kamil Nowak",
+    "email": "kamil.nowak@mail.com"
+  },
+  "repository": {
+    "url": "https://github.com/kamil-now/vscode-black",
+    "type": "git"
+  },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
