@@ -138,7 +138,7 @@
     {
       "scope": "markup.underline",
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": ""
       }
     },
     {
@@ -579,7 +579,7 @@
     {
       "scope": ["entity.name.type", "entity.other.inherited-class"],
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": ""
       }
     },
     {
