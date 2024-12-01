@@ -5,7 +5,7 @@
     "activityBar.background": "#000000",
     "activityBar.foreground": "#ffffffff",
     "activityBarBadge.background": "#007acc",
-    "editor.background": "#000000",
+    "editor.background": "#00000088",
     "editor.foreground": "#ffffff",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.lineHighlightBorder": "#00000000",
